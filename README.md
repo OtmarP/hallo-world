@@ -2,11 +2,6 @@
 
 hallo world reporitory
 
-# Clipper
-HelloWorld.prg
-
-    ? "Hello World !"
-
 # C#
 HelloWorld.cs
 
@@ -17,3 +12,8 @@ HelloWorld.cs
             System.Console.WriteLine("Hello World !");
         }
     }
+
+# Clipper
+HelloWorld.prg
+
+    ? "Hello World !"
