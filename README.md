@@ -1,6 +1,11 @@
 # hallo-world
 
-hallo world reporitory
+"Hallo World" - Reporitory
+
+# BASIC
+HelloWorld.bas
+
+    10 PRINT "Hello World !"
 
 # C#
 HelloWorld.cs
