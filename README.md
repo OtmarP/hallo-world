@@ -2,6 +2,21 @@
 
 "Hallo World" - Reporitory
 
+# Assembler x86 DOS COM
+HelloWorld.asm
+
+    .MODEL Tiny
+    .CONST
+     HW     DB      "Hello World !$"
+    .CODE
+    .org 100h
+    start:
+      MOV DX, OFFSET DGROUP:HW
+      MOV AH, 09H
+      INT 21H
+      RET
+    end start
+
 # BASIC
 HelloWorld.bas
 
