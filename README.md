@@ -37,3 +37,8 @@ HelloWorld.cs
 HelloWorld.prg
 
     ? "Hello World !"
+
+# JavaScript
+HelloWorld.js
+
+    document.write("Hello World !");
