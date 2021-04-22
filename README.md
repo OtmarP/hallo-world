@@ -50,3 +50,8 @@ HelloWorld.bat
 HelloWorld.ps1
 
     Write-Host "Hello World !"
+
+### QBASIC
+HelloWorld.bas
+
+    PRINT "Hello World !"
