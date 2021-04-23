@@ -55,3 +55,8 @@ HelloWorld.ps1
 HelloWorld.bas
 
     PRINT "Hello World !"
+
+### SQL
+HelloWorld.sql
+
+    SELECT "Hello World !" AS message
