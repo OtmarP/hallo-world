@@ -60,3 +60,8 @@ HelloWorld.bas
 HelloWorld.sql
 
     SELECT "Hello World !" AS message
+
+### Visual Basic Script
+HelloWorld.vbs
+
+    WScript.Echo "Hello World !"
