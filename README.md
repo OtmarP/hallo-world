@@ -65,3 +65,12 @@ HelloWorld.sql
 HelloWorld.vbs
 
     WScript.Echo "Hello World !"
+
+### Visual Basic .NET
+HelloWorld.bas
+
+    Module Module1
+        Sub Main()
+            Console.WriteLine("Hello World !")
+        End Sub
+    End Module
