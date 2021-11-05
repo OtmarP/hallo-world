@@ -51,6 +51,11 @@ HelloWorld.ps1
 
     Write-Host "Hello World !"
 
+### Python
+HelloWorld.py
+
+    print("Hello World !")
+
 ### QBASIC
 HelloWorld.bas
 
